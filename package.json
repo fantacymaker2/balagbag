@@ -28,7 +28,7 @@
     "@strapi/admin": "5.42.0",
     "@strapi/content-manager": "5.42.0",
     "@strapi/core": "5.42.0"
-  }
+  },
   "devDependencies": {},
   "engines": {
     "node": ">=20.0.0 <=24.x.x",
